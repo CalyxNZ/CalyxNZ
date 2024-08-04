@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CalyxNZ
-- 👀 I’m interested in Space, STEM Education, drones, Arduino/Raspberry Pi home electronics, Web Technologies, Digital Marketing, gaming and much more!
-- 🌱 I’m currently learning .NET Framework, C#, C, JS, and Frontend technologies. 
+- 👀 I’m interested in AI, Space, STEM Education, drones, Arduino/Raspberry Pi home electronics, Web Technologies, Digital Marketing, gaming and heaps more!
+- 🌱 I’m currently learning python, java, .NET Framework, React, next.js, C#, C, JS, and Frontend technologies. 
 - 💞️ I’m looking to collaborate on health industry products, products for space/aerospace sector, or the Digital Marketing industry.
 - 📫 How to reach me find me on linkedIn! (Dom England). 
 
